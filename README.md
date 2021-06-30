@@ -1,4 +1,4 @@
-### Hello! My name is Sangharsh. I'm an engineer from Sweden. I'm currently working on an opensource tool for finding sustainable materials. You can reach me on Twitter @ShmataData. 
+##### Hello! I'm Sangharsh. I love building stuff. I'm currently working on an opensource tool for finding sustainable materials. You can reach me on Twitter @ShmataData. 
 
 <!--
 **rcsang/rcsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
