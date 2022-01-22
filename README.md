@@ -1,4 +1,4 @@
-Hello! I'm Sangharsh. I am an engineer based-in Sweden. I love building stuff. I'm currently working on an opensource library for sustainable materials. You can reach me on Twitter @ShmataData. 
+Hello! I am an engineer based-in Sweden. I love building stuff. I'm currently working on an opensource library for sustainable materials. You can reach me on Twitter @ShmataData. 
 
 <!--
 **rcsang/rcsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
